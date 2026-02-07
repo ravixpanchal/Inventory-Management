@@ -1,5 +1,5 @@
 # Inventory-Management
-we use SQL and JAVA SWING. The Inventory Management System is a comprehensive Java application designed to optimize and automate inventory handling processes for manufacturing units. This project focuses on providing an efficient and intuitive platform for managing essential operational data, including stock levels, supplier and distributor information, customer complaints, and billing.
+We use SQL and JAVA SWING. The Inventory Management System is a comprehensive Java application designed to optimize and automate inventory handling processes for manufacturing units. This project focuses on providing an efficient and intuitive platform for managing essential operational data, including stock levels, supplier and distributor information, customer complaints, and billing.
 
 The system leverages a Swing-based GUI for a responsive and interactive user experience, combined with the reliability of SQL databases for storing and managing backend data. The goal of the system is to simplify the daily management tasks faced by manufacturing businesses, reduce errors, and improve productivity.
 
